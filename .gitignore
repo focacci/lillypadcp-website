@@ -1,0 +1,39 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+bin/
+build/
+dist/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.pdb
+
+# Environment files
+.env
+.env.*
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+*.swo
+*.swn
+*.swn
+
+# Dependency folders
+node_modules/
+packages/
